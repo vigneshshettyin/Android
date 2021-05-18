@@ -24,7 +24,7 @@
 
 ## 4. Auto System Wallpaper Change
 
-|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621326345.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621326355.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621326360.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621326367.png" width="100%">|
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337960.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337979.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338050.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338065.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
