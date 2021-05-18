@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Setter</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="next_wallpaper">Next Wallpaper</string>
+</resources>
