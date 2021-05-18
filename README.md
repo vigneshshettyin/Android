@@ -17,6 +17,9 @@
 
 ## 3. Get News Headlines With Chrome Custom Tab
 
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/newsAPIBased/Screenshot_1621323392.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/newsAPIBased/Screenshot_1621323439.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/newsAPIBased/Screenshot_1621323465.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/newsAPIBased/Screenshot_1621323471.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
 <hr/>
 
 ## 4. Auto System Wallpaper Change
