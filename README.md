@@ -1,12 +1,10 @@
-<center><h1>Some Android Basics Apps (Kotlin)</h1></center>
+<h1 align="center">Some Android Basics Apps (Kotlin)</h1> 
 <hr/>
 
 ## 1. Login & Register Using Intent
 
-![alt text](https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png)
-![alt text](https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png)
-![alt text](https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png)
-![alt text](https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png)
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/loginRegister/Screenshot_1621322801.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
 
