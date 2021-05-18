@@ -17,16 +17,24 @@ import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.MainScope
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
 
     var currentImageUrl : String? = null
     var count : Int = 1
+    val scope = MainScope() // could also use an other scope such as viewModelScope if available
+    var job: Job? = null
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         loadImage()
+        startUpdates()
 
 
     }
@@ -75,9 +83,11 @@ class MainActivity : AppCompatActivity() {
 
 // Add the request to the RequestQueue.
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
+
     }
 
     fun setWallpaper(view: View) {
+
         val display_image = findViewById<ImageView>(R.id.display_image) as ImageView
         val bitmap : Bitmap = display_image.drawable.toBitmap()
 
@@ -85,11 +95,38 @@ class MainActivity : AppCompatActivity() {
         wallpaperManager.setBitmap(bitmap)
 
         Toast.makeText(this,"Wallpaer Set", Toast.LENGTH_LONG).show()
-
     }
+
+    suspend fun setAutoWal (){
+        loadImage()
+        delay(5000)
+        val display_image = findViewById<ImageView>(R.id.display_image) as ImageView
+        val bitmap : Bitmap = display_image.drawable.toBitmap()
+
+        val wallpaperManager : WallpaperManager = WallpaperManager.getInstance(this)
+        wallpaperManager.setBitmap(bitmap)
+
+        Toast.makeText(this,"Wallpaer Set Autoset (Default 30 Secounds)", Toast.LENGTH_LONG).show()
+    }
+    
     fun nextWallpaper(view: View) {
         loadImage()
     }
+
+    fun startUpdates() {
+        stopUpdates()
+        job = scope.launch {
+            while(true) {
+                setAutoWal() // the function that should be ran every second
+                delay(30000)
+            }
+        }
+    }
+    fun stopUpdates() {
+        job?.cancel()
+        job = null
+    }
+
 
 
 }
