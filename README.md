@@ -36,3 +36,18 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
+
+## 6. Weather Application Using OpenWeatherMap API
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337960.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337979.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338050.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338065.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
+
+
+## 7. Speechify - Text To Speech Application 
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514888.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514902.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514906.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514912.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
