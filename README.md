@@ -39,7 +39,7 @@
 
 ## 6. Weather Application Using OpenWeatherMap API
 
-|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337960.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621337979.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338050.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/imageAutoSet/Screenshot_1621338065.png" width="100%">|
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/getTempApp/Screenshot_1621608959.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/getTempApp/Screenshot_1621608962.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/getTempApp/Screenshot_1621609012.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/getTempApp/Screenshot_1621609019.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
