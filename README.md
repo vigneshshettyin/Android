@@ -47,7 +47,7 @@
 
 ## 7. Speechify - Text To Speech Application 
 
-|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514888.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514902.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514906.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514912.png" width="100%">|
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/speechify/Screenshot_1621608391.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/speechify/Screenshot_1621608409.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/speechify/Screenshot_1621608443.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Applications-Kotlin/main/Images%20/speechify/Screenshot_1621608452.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
