@@ -28,3 +28,11 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
+
+
+## 5. Counter Application
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514888.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514902.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514906.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/counterApplication/Screenshot_1621514912.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
