@@ -36,3 +36,11 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
+
+## 6. Weather Application
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/getTempApp/Screenshot_1621570593.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/getTempApp/Screenshot_1621570599.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/getTempApp/Screenshot_1621570612.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android-Basics-Kotlin/main/Images%20/getTempApp/Screenshot_1621570615.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
+
