@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<record>
+        <city name="Mangalore"/>
+        <temperature_min value="81.46" />
+        <temperature_max value="87.3" />
+        <coord lon="74.8833" lat="12.8667"/>
+        <humidity value="79" unit="%"/>
+        <date value="Fri, 21 May 2021 03:43:17 GMT"/>
+</record>
