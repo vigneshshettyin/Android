@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speechify</string>
+    <string name="speechify">Speechify</string>
+    <string name="text">Text</string>
+</resources>
