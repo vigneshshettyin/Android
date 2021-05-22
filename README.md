@@ -39,7 +39,7 @@
 
 ## 6. Weather Application Using OpenWeatherMap API
 
-|<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621608959.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/resgetTempApp/Screenshot_1621608962.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621609012.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621609019.png" width="100%">|
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621608959.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621608962.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621609012.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/getTempApp/Screenshot_1621609019.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
