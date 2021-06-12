@@ -127,7 +127,7 @@ Connect an Android device to your development machine.
 
 ### 12. Simple Calculator
 
-|<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050291.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050310.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050342.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050346.png" width="100%">|
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/calc/Screenshot_1623481061.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/calc/Screenshot_1623481068.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/calc/Screenshot_1623481077.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/calc/Screenshot_1623481092.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 <hr/>
