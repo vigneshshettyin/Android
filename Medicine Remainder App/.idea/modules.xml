@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MediLite.iml" filepath="$PROJECT_DIR$/.idea/modules/MediLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MediLite.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MediLite.app.iml" />
+    </modules>
+  </component>
+</project>

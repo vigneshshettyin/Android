@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MediLite</string>
+    <string name="select_date_time"><![CDATA[Select Date & Time]]></string>
+    <string name="medicine_name">Medicine Name</string>
+    <string translatable="false" name="notify_channel_id">MyDefaultChannelID</string>
+    <string translatable="false" name="notify_channel_name">MyDefaultChannelName</string>
+    <string translatable="false" name="notify_channel_description">MyDefaultChannelDescription</string>
+    <string name="select_time">Select Time</string>
+    <string name="add_medicine">Add Medicine</string>
+    <string name="submit">Submit</string>
+</resources>

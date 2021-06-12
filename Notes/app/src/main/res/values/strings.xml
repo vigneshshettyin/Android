@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Notes</string>
-    <string name="notelistitems">NoteListItems</string>
-    <string name="submit">Submit</string>
-    <string name="enter_todo">Enter TODO</string>
-</resources>
