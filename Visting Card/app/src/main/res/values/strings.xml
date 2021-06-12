@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VistingCard</string>
+    <string name="visiting_card">Visiting Card!</string>
+    <string name="name_vignesh">Name : Vignesh</string>
+    <string name="website_vigneshcodes_in">Website : vigneshcodes.in</string>
+    <string name="email_vs_vigneshcodes_in">Email : vs@vigneshcodes.in</string>
+    <string name="imageview">Imageview</string>
+</resources>
