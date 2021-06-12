@@ -9,11 +9,11 @@
 ## Overview 📝
 This repository contains various android applications which I have developed from scratch. Do check it fork it and raise pr.
 
-## Building the Socialify App
+## Building the Application
 
 First, clone the repo:
 
-`git clone git@github.com:vigneshshettyin/Socialify.git`
+`git clone git@github.com:vigneshshettyin/Android.git`
 
 ### Android Studio (Recommended)
 
