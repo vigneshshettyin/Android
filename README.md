@@ -111,3 +111,24 @@ Connect an Android device to your development machine.
 
 <hr/>
 
+### 10. Medicine Reminder Application
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/medicine/Screenshot_1623350624.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/medicine/Screenshot_1623350647.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/medicine/Screenshot_1623350652.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/medicine/Screenshot_1623350655.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
+
+### 11. Static Quiz Application
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/quiz/Screenshot_1623480805.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/quiz/Screenshot_1623480835.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/quiz/Screenshot_1623480844.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/quiz/Screenshot_1623480886.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
+
+### 12. Simple Calculator
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050291.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050310.png" width="100%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050342.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Open-Source-Android/main/res/notesApp/Screenshot_1623050346.png" width="100%">|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
+
