@@ -1,4 +1,4 @@
-<h1 align="center">Open-Source Android</h1> 
+<h1 align="center">Android Applications 📱</h1> 
 <hr/>
 
 ## 1. Login & Register Using Intent
