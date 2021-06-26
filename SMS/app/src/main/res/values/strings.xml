@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="send_amp_receive_sms"><![CDATA[Send & Receive SMS]]></string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send Message</string>
+</resources>
