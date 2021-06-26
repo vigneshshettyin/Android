@@ -132,3 +132,9 @@ Connect an Android device to your development machine.
 
 <hr/>
 
+### 13. Send & Receive SMS
+
+|<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/sms/Screenshot%202021-06-26%20114740.png" width="100%"> |<img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/sms/Screenshot_1624688356.png" width="75%">| <img src="https://raw.githubusercontent.com/vigneshshettyin/Android/main/res/sms/Screenshot_1624688369.png" width="75%"> |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+
+<hr/>
